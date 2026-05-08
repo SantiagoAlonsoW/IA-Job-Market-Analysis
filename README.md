@@ -3,7 +3,6 @@
 Este proyecto presenta un análisis integral sobre la dinámica de contratación, niveles salariales y condiciones de empleo en el sector de la Inteligencia Artificial a nivel global.
 
 ## 📊 Visualización del Proyecto
-## 📊 Visualización del Proyecto
 A continuación se presentan las capturas del dashboard interactivo desarrollado en Power BI:
 
 ![Vista Principal del Dashboard](111611.png)
