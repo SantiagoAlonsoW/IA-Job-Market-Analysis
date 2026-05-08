@@ -5,9 +5,11 @@ Este proyecto presenta un análisis integral sobre la dinámica de contratación
 ## 📊 Visualización del Proyecto
 A continuación se presentan las capturas del dashboard interactivo desarrollado en Power BI:
 
-![Vista Principal del Dashboard](111611.png)
+![Vista Principal del Dashboard](
+Dashboard_Preview_1.png)
 
-![Detalle de Análisis de Salarios](111523.png)
+![Detalle de Análisis de Salarios](
+Dashboard_Preview_2.png)
 
 ## 🎯 Objetivo
 El objetivo es transformar datos crudos del sector tecnológico en información estratégica para departamentos de Recursos Humanos y candidatos. El análisis permite comprender patrones de compensación, modalidades de trabajo (remoto vs. presencial) y los requisitos educativos más demandados.
