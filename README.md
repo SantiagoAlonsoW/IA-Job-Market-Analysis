@@ -30,4 +30,4 @@ El objetivo es transformar datos crudos del sector tecnológico en información 
 * **Formación:** Correlación entre niveles académicos avanzados y ofertas de alta especialización.
 
 ---
-**Santiago Alonso Hinojo** *Ingeniero Mecánico | Data Science & Analytics* [LinkedIn](https://www.linkedin.com/in/santiago-alonso-hinojo/)) | [GitHub](https://github.com/SantiagoAlonsoW)
+**Santiago Alonso Hinojo** *Ingeniero Mecánico | Data Science & Analytics* [LinkedIn](https://www.linkedin.com/in/santiago-alonso-hinojo/) | [GitHub](https://github.com/SantiagoAlonsoW)
